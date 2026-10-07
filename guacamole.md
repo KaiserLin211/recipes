@@ -1,7 +1,9 @@
 # Guacamole
+
 ## Ingredients
-* avocado $20
-* lime $5
-* salt $0.1
-* black pepper $5
+* avocado ($1 / 2 units)
+* lime ($1 / 3 units)
+* salt ($2)
+* black pepper ($5)
+
 ## Instructions
